@@ -1,0 +1,3 @@
+The original data contained rolling sales data for Brooklyn, New York City, from September 2015 through August 2016. The data was analyzed and cleaned to remove incomplete data and clear outliers. Outliers were homes that were marked as sold for less than $100,000, which does not appear to be a realistic sale price when compared to the remaining data.
+
+The median gross square feet of homes sold in Brooklyn from September 2015 to August 2016 was 2,080 and the median sale price was $760,000. The average(mean) sale price was $950,966 and the average size of the homes was 2,202 square feet. The data itself shows that there is a general trend where the price of the home increases as the size of the home increases, which is to be expected.
